@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Shop Homepage Preview](https://startbootstrap.com/assets/img/screenshots/templates/shop-homepage.png)](https://startbootstrap.github.io/startbootstrap-shop-homepage/)
+[![Shop Homepage Preview](https://d500.epimg.net/cincodias/imagenes/2019/05/02/lifestyle/1556809482_591063_1556811522_sumario_normal.jpg)](https://startbootstrap.github.io/startbootstrap-shop-homepage/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-shop-homepage/)**
 
